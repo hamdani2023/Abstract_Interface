@@ -1,0 +1,11 @@
+com\intrfaces\Circle.class
+com\intrfaces\Square.class
+com\abstrct\Animal.class
+com\abstrct\Lion.class
+com\intrfaces\Resizable.class
+com\intrfaces\Main.class
+com\intrfaces\Shape.class
+com\abstrct\Main.class
+com\intrfaces\Rectangle.class
+com\intrfaces\Drawable.class
+com\abstrct\Snake.class
